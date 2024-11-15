@@ -8,8 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shoaib.imrann/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-imran-0a7803232/)
 
-<h3>Visit my website for more details - [![shoaibimran.com](https://img.shields.io/badge/Website-%23000000.svg?logo=world&logoColor=white)](https://shoaibimran.com) </h3>
-
+<h3>Visit my website for more details - <a href="https://shoaibimran.com"><img src="https://img.shields.io/badge/Website-%23000000.svg?logo=world&logoColor=white" alt="shoaibimran.com"></a></h3>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
